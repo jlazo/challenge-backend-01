@@ -1,6 +1,6 @@
-import express from "express";
-import tweets from "./src/routes/tweets.routes";
-import {} from "./src/services/tweet.service";
+const express = require("express");
+const tweets = require("./src/routes/tweets.routes");
+require("./src/services/tweet.service");
 
 let app = express();
 app.use(express.json());

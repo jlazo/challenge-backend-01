@@ -1,5 +1,5 @@
 {
-  "size": 3,
+  "size": 4,
   "tweet": [
     {
       "created_at": "Fri May 29 21:59:41 +0000 2020",
@@ -608,6 +608,263 @@
       "filter_level": "low",
       "lang": "es",
       "timestamp_ms": "1591052444301"
+    },
+    {
+      "created_at": "Thu Jun 04 00:38:19 +0000 2020",
+      "id": 1268341277894029300,
+      "id_str": "1268341277894029317",
+      "text": "@platzi @freddier @cvander 💚🎂 Otro gran recuerdo fue ir a PlatziConf el 02-11-19 fue un gran recuerdo conocer gente… https://t.co/o1jtG0X481",
+      "display_text_range": [27, 140],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": 1268339487161155600,
+      "in_reply_to_status_id_str": "1268339487161155586",
+      "in_reply_to_user_id": 856988820537036800,
+      "in_reply_to_user_id_str": "856988820537036800",
+      "in_reply_to_screen_name": "CitzienAlex21",
+      "user": {
+        "id": 856988820537036800,
+        "id_str": "856988820537036800",
+        "name": "Alexandre Rojas Roa",
+        "screen_name": "CitzienAlex21",
+        "location": "Bogotá, D.C., Colombia",
+        "url": null,
+        "description": "Trabajando para emprender mi camino. Orgulloso estudiante de @platzi y profesional en comunicación social y producción de cine y TV.\n\npassion och kraft",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 87,
+        "friends_count": 492,
+        "listed_count": 0,
+        "favourites_count": 2010,
+        "statuses_count": 2911,
+        "created_at": "Tue Apr 25 21:50:31 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1116412800358866945/LaOqi84Z_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116412800358866945/LaOqi84Z_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/856988820537036800/1545701068",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "@platzi @freddier @cvander 💚🎂 Otro gran recuerdo fue ir a PlatziConf el 02-11-19 fue un gran recuerdo conocer gente que le apasiona lo mismo a mi Aprender y Crear, conocer al equipo y @freddier y @cvander fue un honor y me di cuenta que hay esparanza en el 🌐 gracias a @platzi #NuncaParesDeAprender (2/3) https://t.co/P1oPy6efPk",
+        "display_text_range": [27, 304],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "NuncaParesDeAprender",
+              "indices": [277, 298]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "platzi",
+              "name": "Platzi",
+              "id": 64863875,
+              "id_str": "64863875",
+              "indices": [0, 7]
+            },
+            {
+              "screen_name": "freddier",
+              "name": "Freddy Vega",
+              "id": 16742912,
+              "id_str": "16742912",
+              "indices": [8, 17]
+            },
+            {
+              "screen_name": "cvander",
+              "name": "Christian Van Der H.",
+              "id": 817789,
+              "id_str": "817789",
+              "indices": [18, 26]
+            },
+            {
+              "screen_name": "freddier",
+              "name": "Freddy Vega",
+              "id": 16742912,
+              "id_str": "16742912",
+              "indices": [184, 193]
+            },
+            {
+              "screen_name": "cvander",
+              "name": "Christian Van Der H.",
+              "id": 817789,
+              "id_str": "817789",
+              "indices": [196, 204]
+            },
+            {
+              "screen_name": "platzi",
+              "name": "Platzi",
+              "id": 64863875,
+              "id_str": "64863875",
+              "indices": [269, 276]
+            }
+          ],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1268341271569084400,
+              "id_str": "1268341271569084416",
+              "indices": [305, 328],
+              "description": "Hope GIF",
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EZoNqqHXsAAs_O_.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EZoNqqHXsAAs_O_.jpg",
+              "url": "https://t.co/P1oPy6efPk",
+              "display_url": "pic.twitter.com/P1oPy6efPk",
+              "expanded_url": "https://twitter.com/CitzienAlex21/status/1268341277894029317/photo/1",
+              "type": "animated_gif",
+              "video_info": {
+                "aspect_ratio": [249, 119],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/EZoNqqHXsAAs_O_.mp4"
+                  }
+                ]
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 498,
+                  "h": 238,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 498,
+                  "h": 238,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 498,
+                  "h": 238,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1268341271569084400,
+              "id_str": "1268341271569084416",
+              "indices": [305, 328],
+              "description": "Hope GIF",
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EZoNqqHXsAAs_O_.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EZoNqqHXsAAs_O_.jpg",
+              "url": "https://t.co/P1oPy6efPk",
+              "display_url": "pic.twitter.com/P1oPy6efPk",
+              "expanded_url": "https://twitter.com/CitzienAlex21/status/1268341277894029317/photo/1",
+              "type": "animated_gif",
+              "video_info": {
+                "aspect_ratio": [249, 119],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/EZoNqqHXsAAs_O_.mp4"
+                  }
+                ]
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 498,
+                  "h": 238,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 498,
+                  "h": 238,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 498,
+                  "h": 238,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/o1jtG0X481",
+            "expanded_url": "https://twitter.com/i/web/status/1268341277894029317",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [117, 140]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "platzi",
+            "name": "Platzi",
+            "id": 64863875,
+            "id_str": "64863875",
+            "indices": [0, 7]
+          },
+          {
+            "screen_name": "freddier",
+            "name": "Freddy Vega",
+            "id": 16742912,
+            "id_str": "16742912",
+            "indices": [8, 17]
+          },
+          {
+            "screen_name": "cvander",
+            "name": "Christian Van Der H.",
+            "id": 817789,
+            "id_str": "817789",
+            "indices": [18, 26]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "es",
+      "timestamp_ms": "1591231099948"
     }
   ]
 }

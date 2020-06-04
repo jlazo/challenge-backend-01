@@ -1,7 +1,7 @@
-import { Router } from "express";
-let router = Router();
-import { publishToQueue } from "../services/rabbitmq.service";
-import { config } from "../config";
+const Router = require("express");
+const publishToQueue = require("../services/rabbitmq.service");
+const router = Router();
+const config = require("../config");
 
 const queueName = config.rabbitmq_queue_name;
 
@@ -15,4 +15,4 @@ router.post("/", async (req, res, next) => {
   next();
 });
 
-export default router;
+module.exports = router;

@@ -1,6 +1,6 @@
-import Twit from "twit";
-import { publishToQueue } from "./rabbitmq.service";
-import { config } from "../config";
+const Twit = require("twit");
+const publishToQueue = require("./rabbitmq.service");
+const config = require("../config");
 
 const T = new Twit({
   consumer_key: config.consumer_key,
