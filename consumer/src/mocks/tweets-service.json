@@ -1,0 +1,357 @@
+[
+  {
+    "created_at": "Fri May 29 21:59:41 +0000 2020",
+    "id": 1266489416358531000,
+    "id_str": "1266489416358531077",
+    "text": "@cotufa82 @adriifermo @KateChauca @EstefanyCss @grafofilia @WomenTechmakers @platzi ¡Muchas gracias por tu apoyo… https://t.co/gFyw9vZss0",
+    "display_text_range": [84, 140],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1266488142594560000,
+    "in_reply_to_status_id_str": "1266488142594560009",
+    "in_reply_to_user_id": 2327284665,
+    "in_reply_to_user_id_str": "2327284665",
+    "in_reply_to_screen_name": "cotufa82",
+    "user": {
+      "id": 30143513,
+      "id_str": "30143513",
+      "name": "Erika - día 75",
+      "screen_name": "erkluna",
+      "location": "Bogotá, D.C., Colombia",
+      "url": "http://www.platzi.com",
+      "description": "Community Relations Manager at Platzi, Google for startups Mentor, Women Techmakers Ambassador. I believe in gender equality and education democratization.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2081,
+      "friends_count": 507,
+      "listed_count": 33,
+      "favourites_count": 6752,
+      "statuses_count": 9434,
+      "created_at": "Fri Apr 10 03:00:38 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "8EB532",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "7B4EB5",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "4F918C",
+      "profile_text_color": "74AA92",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1191284382113382400/zUV1VTmj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191284382113382400/zUV1VTmj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/30143513/1501775088",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "@cotufa82 @adriifermo @KateChauca @EstefanyCss @grafofilia @WomenTechmakers @platzi ¡Muchas gracias por tu apoyo @cotufa82 ! Vamos por más chicas en tecnología 💪🏻",
+      "display_text_range": [84, 162],
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "cotufa82",
+            "name": "cotufa82",
+            "id": 2327284665,
+            "id_str": "2327284665",
+            "indices": [0, 9]
+          },
+          {
+            "screen_name": "adriifermo",
+            "name": "Adriana Fernanda Moya",
+            "id": 875348065384886300,
+            "id_str": "875348065384886273",
+            "indices": [10, 21]
+          },
+          {
+            "screen_name": "KateChauca",
+            "name": "Katherine Chauca",
+            "id": 342539503,
+            "id_str": "342539503",
+            "indices": [22, 33]
+          },
+          {
+            "screen_name": "EstefanyCss",
+            "name": "Estefany Salas",
+            "id": 192350976,
+            "id_str": "192350976",
+            "indices": [34, 46]
+          },
+          {
+            "screen_name": "grafofilia",
+            "name": "Zura Guerra",
+            "id": 16754025,
+            "id_str": "16754025",
+            "indices": [47, 58]
+          },
+          {
+            "screen_name": "WomenTechmakers",
+            "name": "Women Techmakers",
+            "id": 2362618909,
+            "id_str": "2362618909",
+            "indices": [59, 75]
+          },
+          {
+            "screen_name": "platzi",
+            "name": "Platzi",
+            "id": 64863875,
+            "id_str": "64863875",
+            "indices": [76, 83]
+          },
+          {
+            "screen_name": "cotufa82",
+            "name": "cotufa82",
+            "id": 2327284665,
+            "id_str": "2327284665",
+            "indices": [113, 122]
+          }
+        ],
+        "symbols": []
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/gFyw9vZss0",
+          "expanded_url": "https://twitter.com/i/web/status/1266489416358531077",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [114, 137]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cotufa82",
+          "name": "cotufa82",
+          "id": 2327284665,
+          "id_str": "2327284665",
+          "indices": [0, 9]
+        },
+        {
+          "screen_name": "adriifermo",
+          "name": "Adriana Fernanda Moya",
+          "id": 875348065384886300,
+          "id_str": "875348065384886273",
+          "indices": [10, 21]
+        },
+        {
+          "screen_name": "KateChauca",
+          "name": "Katherine Chauca",
+          "id": 342539503,
+          "id_str": "342539503",
+          "indices": [22, 33]
+        },
+        {
+          "screen_name": "EstefanyCss",
+          "name": "Estefany Salas",
+          "id": 192350976,
+          "id_str": "192350976",
+          "indices": [34, 46]
+        },
+        {
+          "screen_name": "grafofilia",
+          "name": "Zura Guerra",
+          "id": 16754025,
+          "id_str": "16754025",
+          "indices": [47, 58]
+        },
+        {
+          "screen_name": "WomenTechmakers",
+          "name": "Women Techmakers",
+          "id": 2362618909,
+          "id_str": "2362618909",
+          "indices": [59, 75]
+        },
+        {
+          "screen_name": "platzi",
+          "name": "Platzi",
+          "id": 64863875,
+          "id_str": "64863875",
+          "indices": [76, 83]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1590789581752"
+  },
+  {
+    "created_at": "Mon Jun 01 19:01:45 +0000 2020",
+    "id": 1267531799858688000,
+    "id_str": "1267531799858688000",
+    "text": "@platzi Algo esta pasando allí chicos... https://t.co/r7qlcVK4wu",
+    "display_text_range": [0, 40],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 64863875,
+    "in_reply_to_user_id_str": "64863875",
+    "in_reply_to_screen_name": "platzi",
+    "user": {
+      "id": 229433016,
+      "id_str": "229433016",
+      "name": "Quirós Manuel",
+      "screen_name": "quirosmanuel",
+      "location": "Caracas",
+      "url": null,
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 116,
+      "friends_count": 196,
+      "listed_count": 1,
+      "favourites_count": 153,
+      "statuses_count": 246,
+      "created_at": "Wed Dec 22 11:33:58 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1061983634469670913/0yqyvpXj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061983634469670913/0yqyvpXj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/229433016/1542140922",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "platzi",
+          "name": "Platzi",
+          "id": 64863875,
+          "id_str": "64863875",
+          "indices": [0, 7]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1267531612029358000,
+          "id_str": "1267531612029358081",
+          "indices": [41, 64],
+          "media_url": "http://pbs.twimg.com/media/EZctSRSWkAE-ndJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZctSRSWkAE-ndJ.jpg",
+          "url": "https://t.co/r7qlcVK4wu",
+          "display_url": "pic.twitter.com/r7qlcVK4wu",
+          "expanded_url": "https://twitter.com/quirosmanuel/status/1267531799858688000/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 622,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1050,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1050,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1267531612029358000,
+          "id_str": "1267531612029358081",
+          "indices": [41, 64],
+          "media_url": "http://pbs.twimg.com/media/EZctSRSWkAE-ndJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZctSRSWkAE-ndJ.jpg",
+          "url": "https://t.co/r7qlcVK4wu",
+          "display_url": "pic.twitter.com/r7qlcVK4wu",
+          "expanded_url": "https://twitter.com/quirosmanuel/status/1267531799858688000/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 622,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1050,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1050,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1591038105345"
+  }
+]
